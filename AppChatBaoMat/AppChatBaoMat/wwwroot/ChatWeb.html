@@ -1,0 +1,96 @@
+﻿﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SignalR Chat</title>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script>
+</head>
+<body>
+    <div>
+        <input type="text" id="usernameInput" placeholder="Type Name..."> <br>
+        <input type="text" id="messageInput" placeholder="Type your message...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+    <ul id="messagesList"></ul>
+
+    <script>
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("https://localhost:7030/ChatHub", {
+                skipNegotiation: true,
+                transport: signalR.HttpTransportType.WebSockets
+            })
+            .configureLogging(signalR.LogLevel.Information)
+            .build();
+
+        connection.start().then(function () {
+            console.log("Connected to SignalR Hub");
+            getPreviousMessages(); // Gọi hàm để lấy tin nhắn từ trước
+        }).catch(function (err) {
+            console.error(err.toString());
+        });
+
+        connection.on("ReceiveMessage", function (message) {
+            var messagesList = document.getElementById("messagesList");
+            var li = document.createElement("li");
+            li.innerHTML = `${message.user} : ${message.text}`;
+            messagesList.appendChild(li);
+        });
+
+        function sendMessage() {
+            var messageInput = document.getElementById("messageInput");
+            var userInput = document.getElementById("usernameInput");
+
+            // Kiểm tra nếu tên người dùng chưa được nhập
+            if (!userInput.value) {
+                alert("Please enter your name.");
+                return;
+            }
+
+            var message = {
+                text: messageInput.value,
+                user: userInput.value
+            }
+
+            connection.invoke("SendMessage", message).catch(function (err) {
+                console.error(err);
+            });
+
+            messageInput.value = "";
+        }
+
+        // Xử lý khi người dùng nhấn phím "Enter" trong ô nhập tin nhắn
+        document.getElementById("messageInput").addEventListener("keyup", function (event) {
+            if (event.key === "Enter") {
+                sendMessage();
+            }
+        });
+
+        // Hàm gọi API để lấy tin nhắn từ trước
+        function getPreviousMessages() {
+            fetch('https://localhost:7030/api/Message')
+                .then(response => response.json())
+                .then(data => {
+                    displayMessages(data);
+                })
+                .catch(error => {
+                    console.error('Error fetching messages:', error);
+                });
+        }
+
+        // Hàm hiển thị tin nhắn
+        function displayMessages(messages) {
+            var messagesList = document.getElementById("messagesList");
+
+            messages.forEach(function (message) {
+                var li = document.createElement("li");
+                console.log(message);
+                li.innerHTML = `${message.user} : ${message.text}`;
+                messagesList.appendChild(li);
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "8UJytTneA4Xpy3M295pixd+7+NI3kNSP45ebkDp0tSI=",
+  "Source": "AppChatBaoMat",
+  "BasePath": "_content/AppChatBaoMat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AppChatBaoMat\\wwwroot",
+      "Source": "AppChatBaoMat",
+      "ContentRoot": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\wwwroot\\",
+      "BasePath": "_content/AppChatBaoMat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\wwwroot\\ChatWeb.html",
+      "SourceId": "AppChatBaoMat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\wwwroot\\",
+      "BasePath": "_content/AppChatBaoMat",
+      "RelativePath": "ChatWeb.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ChatWeb.html"
+    }
+  ]
+}

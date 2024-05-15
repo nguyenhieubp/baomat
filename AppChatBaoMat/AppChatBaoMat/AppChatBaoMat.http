@@ -1,0 +1,6 @@
+@AppChatBaoMat_HostAddress = http://localhost:5179
+
+GET {{AppChatBaoMat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

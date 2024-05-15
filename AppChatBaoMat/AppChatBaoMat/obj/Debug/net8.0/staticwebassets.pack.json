@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\wwwroot\\ChatWeb.html",
+      "PackagePath": "staticwebassets\\ChatWeb.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppChatBaoMat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AppChatBaoMat.props",
+      "PackagePath": "build\\AppChatBaoMat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AppChatBaoMat.props",
+      "PackagePath": "buildMultiTargeting\\AppChatBaoMat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AppChatBaoMat.props",
+      "PackagePath": "buildTransitive\\AppChatBaoMat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

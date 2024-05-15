@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|d:\\code\\eaut\\baomat\\appchatbaomat\\appchatbaomat\\desencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|solutionrelative:appchatbaomat\\desencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|d:\\code\\eaut\\baomat\\appchatbaomat\\appchatbaomat\\chathub\\chathubrealtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|solutionrelative:appchatbaomat\\chathub\\chathubrealtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|d:\\code\\eaut\\baomat\\appchatbaomat\\appchatbaomat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|solutionrelative:appchatbaomat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|d:\\code\\eaut\\baomat\\appchatbaomat\\appchatbaomat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|solutionrelative:appchatbaomat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|d:\\code\\eaut\\baomat\\appchatbaomat\\appchatbaomat\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|solutionrelative:appchatbaomat\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|d:\\code\\eaut\\baomat\\appchatbaomat\\appchatbaomat\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|solutionrelative:appchatbaomat\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|d:\\code\\eaut\\baomat\\appchatbaomat\\appchatbaomat\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|solutionrelative:appchatbaomat\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|d:\\code\\eaut\\baomat\\appchatbaomat\\appchatbaomat\\db\\chatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|solutionrelative:appchatbaomat\\db\\chatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|d:\\code\\eaut\\baomat\\appchatbaomat\\appchatbaomat\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|solutionrelative:appchatbaomat\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|d:\\code\\eaut\\baomat\\appchatbaomat\\appchatbaomat\\wwwroot\\chatweb.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C194DFD9-9A01-4495-AC8A-E4AE38DB402E}|AppChatBaoMat\\AppChatBaoMat.csproj|solutionrelative:appchatbaomat\\wwwroot\\chatweb.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\appsettings.json",
+              "RelativeDocumentMoniker": "AppChatBaoMat\\appsettings.json",
+              "ToolTip": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\appsettings.json",
+              "RelativeToolTip": "AppChatBaoMat\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T14:07:54.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\Models\\Messages.cs",
+              "RelativeDocumentMoniker": "AppChatBaoMat\\Models\\Messages.cs",
+              "ToolTip": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\Models\\Messages.cs",
+              "RelativeToolTip": "AppChatBaoMat\\Models\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:06:05.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesEncryption.cs",
+              "DocumentMoniker": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\DesEncryption.cs",
+              "RelativeDocumentMoniker": "AppChatBaoMat\\DesEncryption.cs",
+              "ToolTip": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\DesEncryption.cs",
+              "RelativeToolTip": "AppChatBaoMat\\DesEncryption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:41:21.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "AppChatBaoMat\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "AppChatBaoMat\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:33:32.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHubRealTime.cs",
+              "DocumentMoniker": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\ChatHub\\ChatHubRealTime.cs",
+              "RelativeDocumentMoniker": "AppChatBaoMat\\ChatHub\\ChatHubRealTime.cs",
+              "ToolTip": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\ChatHub\\ChatHubRealTime.cs",
+              "RelativeToolTip": "AppChatBaoMat\\ChatHub\\ChatHubRealTime.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:59:15.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\Program.cs",
+              "RelativeDocumentMoniker": "AppChatBaoMat\\Program.cs",
+              "ToolTip": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\Program.cs",
+              "RelativeToolTip": "AppChatBaoMat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:51:16.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectDb.cs",
+              "DocumentMoniker": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\ConnectDb.cs",
+              "RelativeDocumentMoniker": "AppChatBaoMat\\ConnectDb.cs",
+              "ToolTip": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\ConnectDb.cs",
+              "RelativeToolTip": "AppChatBaoMat\\ConnectDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:51:14.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatDb.cs",
+              "DocumentMoniker": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\Db\\ChatDb.cs",
+              "RelativeDocumentMoniker": "AppChatBaoMat\\Db\\ChatDb.cs",
+              "ToolTip": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\Db\\ChatDb.cs",
+              "RelativeToolTip": "AppChatBaoMat\\Db\\ChatDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:51:11.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AppChatBaoMat\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AppChatBaoMat\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T16:26:21.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatWeb.html",
+              "DocumentMoniker": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\wwwroot\\ChatWeb.html",
+              "RelativeDocumentMoniker": "AppChatBaoMat\\wwwroot\\ChatWeb.html",
+              "ToolTip": "D:\\CODE\\EAUT\\BaoMat\\AppChatBaoMat\\AppChatBaoMat\\wwwroot\\ChatWeb.html",
+              "RelativeToolTip": "AppChatBaoMat\\wwwroot\\ChatWeb.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-13T15:04:43.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
